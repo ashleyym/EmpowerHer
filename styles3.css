@@ -1,0 +1,40 @@
+body{
+  background-color: #F5EBEB;
+  font-family: Arial, sans-serif;
+}
+
+.start{
+  background-color: #D5B4B4;
+  color: #867070;
+  
+}
+
+.middle{
+  color: #867070;
+  font-size: 20px;
+}
+
+.ending{
+  background-color: #D5B4B4;
+  color: #867070;
+  padding: 10px;
+}
+
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+nav li {
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #867070;
+  font-weight: bold;
+}
